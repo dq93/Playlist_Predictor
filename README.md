@@ -60,3 +60,5 @@ MatplotLib
 Scikit-Learn
 Pandas
 Seaborn
+
+Report: https://github.com/dq93/Music_recommendation/blob/main/notebooks/report.ipynb
