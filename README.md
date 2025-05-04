@@ -1,4 +1,4 @@
-# Music Recommendation
+# Playlist Predictor
 
 The purpose of this project is to see if I can imitate a music recommendation algorithm. This project uses a dataset of songs from 1950 - 2019 that was taken from a research paper from 2020 titled Music Dataset: Lyrics and Metadata from 1950 to 2019. The features of this dataset are:
 
