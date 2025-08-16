@@ -1,6 +1,6 @@
 # Playlist Predictor
 
-![Image](https://github.com/user-attachments/assets/d4bda4b2-b253-458d-a988-46fe18fd1a36)
+<img width="500" height="420" alt="Image" src="https://github.com/user-attachments/assets/20f0cdc5-b2df-4628-8a20-a86333ae41be" />
 
 The purpose of this project is to see if I can imitate a music recommendation algorithm. This project uses a dataset of songs from 1950 - 2019 that was taken from a research paper from 2020 titled Music Dataset: Lyrics and Metadata from 1950 to 2019. The features of this dataset are:
 
