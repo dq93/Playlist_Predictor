@@ -2,13 +2,13 @@
 
 <img width="500" height="420" alt="Image" src="https://github.com/user-attachments/assets/20f0cdc5-b2df-4628-8a20-a86333ae41be" />
 
-The purpose of this project is to imitate a music recommendation algorithm using unsupervised machine learning. K-Means clustering is used without scaling, then with scaling and then with PCA. A new sample is then created for the final algorithm. This project uses a dataset of songs from 1950 - 2019 that was taken from a research paper from 2020 titled Music Dataset: Lyrics and Metadata from 1950 to 2019. 
+The purpose of this project is to imitate a music recommendation algorithm using unsupervised machine learning. K-Means clustering is used without scaling, then with scaling and then with PCA. A new sample is then created for the final algorithm. This project uses a dataset of songs from 1950 - 2019 that was taken from a research paper published in 2020 titled "Music Dataset: Lyrics and Metadata from 1950 to 2019". 
 
 Link to the dataset: https://data.mendeley.com/datasets/3t9vbwxgr5/3
 
 # Features of the dataset:
 
-Categorical:
+## Categorical
 
 artist_name: The name of the artist
 
@@ -20,7 +20,7 @@ genre: The categorical genre of this song
 
 lyrics: The pre-tokenized lyrics of this song. Disclaimer: note that as this is real-world data, lyrical content is often obscene. 
 
-Quantitative:
+## Quantitative
 
 len:  The number of words in the lyrics of this song
 
