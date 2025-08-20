@@ -2,7 +2,11 @@
 
 <img width="500" height="420" alt="Image" src="https://github.com/user-attachments/assets/20f0cdc5-b2df-4628-8a20-a86333ae41be" />
 
-The purpose of this project is to see if I can imitate a music recommendation algorithm. This project uses a dataset of songs from 1950 - 2019 that was taken from a research paper from 2020 titled Music Dataset: Lyrics and Metadata from 1950 to 2019. The features of this dataset are:
+The purpose of this project is to imitate a music recommendation algorithm using unsupervised machine learning. K-Means clustering is used without scaling, then with scaling and then with PCA. A new sample is then created for the final algorithm. This project uses a dataset of songs from 1950 - 2019 that was taken from a research paper from 2020 titled Music Dataset: Lyrics and Metadata from 1950 to 2019. 
+
+Link to the dataset: https://data.mendeley.com/datasets/3t9vbwxgr5/3
+
+# Features of the dataset:
 
 Categorical:
 
@@ -54,13 +58,18 @@ topic: The categorical label of lyrical content
 
 age: A score from 0 to 1 expressing how “old” a song is from our perspective. 1 being the oldest, and 0 being the newest.
 
-Modules/Libraries:
+# Tools:
 
-Python
-Numpy
-MatplotLib
-Scikit-Learn
-Pandas
-Seaborn
+- Python 🐍
+
+- Pandas 🐼
+
+- Matplotlib 📊
+
+- Seaborn 🌊
+
+- Numpy 🔢
+
+- Scikit-learn (Sklearn) 🤖
 
 Report: https://github.com/dq93/Music_recommendation/blob/main/notebooks/report.ipynb
